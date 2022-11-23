@@ -1,4 +1,4 @@
-﻿double a = -3;
+﻿double a = 7;
 if (a%2 == 0) {
     Console.Write("Yes");
 }
