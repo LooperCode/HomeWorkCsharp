@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿double a = 4;
+if (a%2 == 0) {
+    Console.Write("Yes");
+}
+else {
+    Console.Write("No");
+}
