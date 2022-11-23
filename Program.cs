@@ -1,4 +1,4 @@
-﻿int[] numbers = {2, 3, 7};
+﻿int[] numbers = {44, 5, 78};
 int max = numbers[0];
 int index = 0;
 int size = 3;
